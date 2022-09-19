@@ -1,0 +1,83 @@
+h1 {
+    margin: 70px !important;
+    text-align: center;
+    color: #0863eb;
+}
+
+p {
+    margin-left: 40px !important;
+}
+
+#indent {
+    margin-left: 70px !important;
+}
+
+
+.row #pool {
+    border-radius: 15px;
+}
+
+.row .col-md-6 .form-inline, .row .col-md-12 .form-group {
+    margin: 40px !important;
+}
+
+.check {
+    margin-left: 40px;
+}
+
+.divider {
+    border-top: 1px solid black;
+    width: 90%;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.add {
+    margin: 15px;
+}
+
+.box {
+    margin-right: 5px;
+}
+
+.section .submit-button {
+    margin-top: 10px;
+}
+
+.buttons {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    font-size: 12px !important;
+}
+
+.banner {
+    position: relative;
+    height: 200px;
+}
+
+.banner #banner-image {
+    position: absolute;
+    width: 100vw;
+    height: 200px;
+}
+
+.banner #header {
+    position: absolute;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.header {
+    margin-top: 30px;
+}
+
+#details-text {
+    color: #0863eb;
+}
+
+.transitions {
+    opacity: 0;
+}

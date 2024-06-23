@@ -1,4 +1,4 @@
-# Sports-park-booking-website
+# Sports Park Booking Website
 
 The purpose of the website I have created for my coursework is to enable sports park members to view their booking
 information and personal details on an account page interface. From here, a member can choose and add
